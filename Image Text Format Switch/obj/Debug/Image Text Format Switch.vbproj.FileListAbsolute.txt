@@ -1,0 +1,46 @@
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe.config
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.pdb
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.xml
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbprojResolveAssemblyReference.cache
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Form1.resources
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Resources.resources
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.GenerateResource.Cache
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.exe
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.xml
+F:\编程\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.pdb
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe.config
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image Text Format Switch.exe
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image Text Format Switch.xml
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image Text Format Switch.pdb
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\bin\Debug\Image Text Format Switch.pdb
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\bin\Debug\Image Text Format Switch.xml
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbprojResolveAssemblyReference.cache
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Form1.resources
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Resources.resources
+F:\编程\VB.NET\Image Text Format Switch - 副本\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.GenerateResource.Cache
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe.config
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.pdb
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.xml
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbprojAssemblyReference.cache
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Form1.resources
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Resources.resources
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.GenerateResource.cache
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.CoreCompileInputs.cache
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.exe
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.xml
+D:\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.pdb
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe.config
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.exe
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.pdb
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\bin\Debug\Image Text Format Switch.xml
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbprojAssemblyReference.cache
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Form1.resources
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image_Text_Format_Switch.Resources.resources
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.GenerateResource.cache
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.vbproj.CoreCompileInputs.cache
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.exe
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.xml
+D:\Programing\VB.NET\Image Text Format Switch\Image Text Format Switch\obj\Debug\Image Text Format Switch.pdb
